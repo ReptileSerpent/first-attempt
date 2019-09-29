@@ -1,5 +1,5 @@
 # first-attempt
 The bestest repository
 
-really gut
+really gut!
 anybody who says otherwise has no idea what they are talking about
